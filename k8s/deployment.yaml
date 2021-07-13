@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: static1
+  name: k8s-static1
   namespace: jquery
 spec:
   selector:
